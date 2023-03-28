@@ -18,12 +18,12 @@
 - Le logiciel pour faire fonctionner le détecteur
 - Les librairies
 - Les étapes de configuration et d'installation du détecteur
-- Les codes de calibration et de mise à l'heure
+- Les codes de mise à l'heure
 - Le manuel d'utilisation du détecteur
 
 ### Configuration et installation du détecteur
 Une fois le détecteur assemblé selon le mode opératoire décrit ici: (lien vers le wikifactory)
-il faut configurer et calibrer le détecteur.
+il faut configurer le détecteur.
 
 #### 1-  Installer les librairies, les drivers
 Toutes les librairies utiles se trouvent dans le dossier CS_librairies de ce github.
@@ -32,7 +32,6 @@ Toutes les librairies utiles se trouvent dans le dossier CS_librairies de ce git
 #### 2- Mettre à l'heure l'horloge UTC
 L'horloge du détecteur doit être mise à l'heure universelle. Procédure:
 
--
 -
 -
 
