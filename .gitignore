@@ -1,0 +1,16 @@
+*.diff
+*.err
+*.orig
+*.reg
+*.log
+*.swp
+*.swo
+*~
+*.sass-cache
+Thumbs.db
+ehthumbs.db
+*.esproj
+.cache
+.project
+.settings
+.tmproj
