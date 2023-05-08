@@ -12,14 +12,15 @@
 - Site web du programme : https://www.astrolabe-expeditions.org/programme-de-sciences/CosmicSail/
 - Wikifactory pour fabriquer le détecteur: (lien à venir)
 - Github du code de l'instrument de mesure:  https://github.com/CosmicSail/Detecteur-de-muons/
-- Schéma électronique de l'instrument: (lien à venir)
+
 
 ##### Ce github contient: 
 - Les codes pour faire fonctionner le détecteur
 - Les librairies
 - Les étapes de configuration et d'installation du détecteur
-- Les codes de mise à l'heure
+- Le schéma électronique
 - Le manuel d'utilisation du détecteur
+- Le manuel technique du détecteur
 
 ### Configuration et installation du détecteur
 Une fois le détecteur assemblé selon le mode opératoire décrit ici: (lien vers le wikifactory)
