@@ -7,7 +7,7 @@
 
 ##### Le kit de mesure CosmicSail permet de mesurer:
 
-- Le nombre de muons par unité de temps
+- Le nombre de détection de muons par unité de temps
 - La pression atmosphérique
 - Positions GPS des points de mesure, ainsi que la date et l'heure
 
