@@ -1,4 +1,4 @@
-# C osmicSail
+# CosmicSail
 ###### _CosmicSail est l'un des 7 programmes de science participative de l'association Astrolabe Expeditions, qui consiste en la mesure des particules cosmiques (les muons) à bord de voiliers volontaires._
 ###### _Le kit de mesure "CosmicSail" est composé d'un détecteur de muons, conçu en collaboration avec les bénévoles de l'association My Human Kit (https://myhumankit.org/). La réalisation s'est basée sur le détecteur de muon open-source "CosmicWatch" (http://www.cosmicwatch.lns.mit.edu/)  sur lequel des développements ont été réalisés._
 ###
