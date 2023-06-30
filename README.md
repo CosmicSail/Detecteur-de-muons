@@ -14,7 +14,7 @@
 ##### Les liens du programme
 - Site web du programme : https://www.astrolabe-expeditions.org/programme-de-sciences/CosmicSail/
 - Wikifactory pour fabriquer le détecteur: (lien à venir)
-- Github du code de l'instrument de mesure:  https://github.com/CosmicSail/Detecteur-de-muons/
+- Github du code de l'instrument de mesure:  https://github.com/astrolabe-expeditions/CosmicSail
 
 
 ##### Ce github contient: 
@@ -30,21 +30,20 @@ Une fois le détecteur assemblé selon le mode opératoire décrit ici: (lien ve
 il faut configurer le détecteur.
 
 #### 1-  Installer les librairies, les drivers
-Toutes les librairies utiles se trouvent dans le dossier CS_librairies de ce github.
+Toutes les librairies utiles se trouvent dans le dossier CS_librairies/ de ce github.
 
 
 #### 2- Mettre à l'heure l'horloge UTC
 L'horloge du détecteur doit être mise à l'heure universelle. Procédure:
 
--
--
+- si le GPS est fonctionnel, la mise à jour de la date et de l'heure se fera automatiquement
+- si le GPS n'est pas fonctionnel, l'initialisation de l'horloge se fait grâce au programme set_UTC_time.
 
 #### 3- Installation du programme principal
--
--
+Le programme principal se trouve dans le dossier Code ESP32/ de ce github.
 
 #### 4- Installation de la carte SD
--
--
+- la carte micro-SD doit être formatée en fat32 et doit contenir le fichier PARAM.txt (paramètres d'environnement à définir)
+- Le logement de la carte se situe en face avant du détecteur.
 
-A compléter...
+Pour plus de détails, voir la notice d'utilisation du détecteur (Dossier /Docs/ de ce github).
