@@ -46,4 +46,4 @@ Le programme principal se trouve dans le dossier Code ESP32/ de ce github.
 - la carte micro-SD doit être formatée en fat32 et doit contenir le fichier PARAM.txt (paramètres d'environnement à définir)
 - Le logement de la carte se situe en face avant du détecteur.
 
-Pour plus de détails, voir la notice d'utilisation du détecteur (Dossier /Docs/ de ce github).
+Pour plus de détails, voir la notice d'utilisation du détecteur (Dossier Docs/ de ce github).
