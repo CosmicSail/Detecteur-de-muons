@@ -1,6 +1,4 @@
 
-CosmicSail - Programme de science participative, qui vise à équiper les voiliers de plaisanciers de détecteurs de muons.
-Copyright (c) 2023 Astrolabe Expeditions
 Attribution GNU Affero General Public License v3.0.
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
